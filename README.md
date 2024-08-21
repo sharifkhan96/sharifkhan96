@@ -1,7 +1,7 @@
 Hi there, I'm Sharif 👋
 
 - 🔭 I’m currently working on https://intelcyb.com/
-- 🌱 I’m currently learning Linux, Networking and secure programming & playing with cool staff like bug bounty and robotics
+- 🌱 I’m currently learning Linux, Networking and secure programming & playing with cool stuff like bug bounty and robotics
 - 👯 I’m looking to collaborate on security related projects
 - 📫 Catch up with me at: https://www.linkedin.com/in/sharif-danish-b5003220a/  @sharifdanish_
 
