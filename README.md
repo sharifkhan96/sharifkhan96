@@ -1,14 +1,14 @@
 Hi there, I'm Sharif 👋
 
-- 🔭 I’m currently working on [Project Name]
-- 🌱 I’m currently learning [Technology Name]
-- 👯 I’m looking to collaborate on [Type of Projects]
-- 📫 How to reach me: [Email/LinkedIn]
+- 🔭 I’m currently working on IntelCyb
+- 🌱 I’m currently learning Linux, Networking and secure programming & playing with cool staff like bug bounty and robotics
+- 👯 I’m looking to collaborate on security related projects
+- 📫 Catch up with me at: https://www.linkedin.com/in/sharif-danish-b5003220a/  @sharifdanish_
 
 ## 🛠️ My Tech Stack
 
-- 💻 **Languages:** Python, JavaScript, etc.
-- 🛠️ **Frameworks:** Django, React, etc.
+- 💻 **Languages:** Python, JavaScript, C++, & Java.
+- 🛠️ **Frameworks:** Django.
 
 ## 📊 GitHub Stats
 
