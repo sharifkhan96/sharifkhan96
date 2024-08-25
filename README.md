@@ -15,7 +15,7 @@ Hi there, I'm Sharif 👋
 ## 🛠️ My Tech Stack
 
 - 💻 **Languages:** Assembly, Python, JavaScript, Bash, C++, & Java.
-- 🛠️ **Frameworks:** Django & EVE.
+- 🛠️ **Frameworks:** Django & EVE-NG.
 - 🧑‍💻  **Tools & technologies:** Arduino, Switches, routers, & Azure.
 
 ## 🔧 Interests
