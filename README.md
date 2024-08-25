@@ -22,11 +22,6 @@ Hi there, I'm Sharif 👋
 - ⚔️ **Chess**: Analyzing strategies and how it sharpens one's mind.
 - 🧠 **Human Nature & Psychology**: Understanding what makes people tick.
 - 🌐 **Tech World & Visionary**: Exploring the future of technology and innovation & Pondering the next big tech breakthrough and its impact on society.
-- 🛡️ **Cybersecurity**: Protecting the digital world and ensuring online safety.
 - 👁️ **Perception**: Delving into how we interpret the world around us.
+- 🛡️ **Cybersecurity**: Above all, protecting the digital world and ensuring online safety.
   
-
-
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical)
