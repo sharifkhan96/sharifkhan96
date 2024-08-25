@@ -1,3 +1,6 @@
+![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)
+
+
 Hi there, I'm Sharif 👋
 
 - 🔭 I’m currently working on https://intelcyb.com/
