@@ -17,9 +17,9 @@ Hi there, I'm Sharif 👋
 - 💻 **Languages:** Assembly, Python, JavaScript, Bash, C++, & Java.
 - 🛠️ **Frameworks:** Django & EVE-NG.
 - 🧑‍💻  **Tools & technologies:** Arduino, Switches, routers, & Azure.
-
+  
 ## 🔧 Interests
-- ⚔️ **Chess**: Analyzing strategies and how it sharpens one's mind.
+- ♟️⚔️ **Chess**: Analyzing strategies and how it sharpens one's mind.
 - 🧠 **Human Nature & Psychology**: Understanding what makes people tick.
 - 🌐 **Tech World & Visionary**: Exploring the future of technology and innovation & Pondering the next big tech breakthrough and its impact on society.
 - 👁️ **Perception**: Delving into how we interpret the world around us.
