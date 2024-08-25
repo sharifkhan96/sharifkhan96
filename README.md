@@ -9,7 +9,7 @@
 Hi there, I'm Sharif 👋
 
 - 🔭 I’m currently working on https://intelcyb.com/
-- 🌱 A litte busy learning Linux, Networking and secure programming & playing with cool stuff like bug bounty not a lot though :-)
+- 🌱 Sometimes a litte digging into Linux, Networking and secure programming & playing with cool stuff like bug bounty not a lot though :-)
 - 👯 I’m looking to collaborate on security related projects.
 
 ## 🛠️ My Tech Stack
