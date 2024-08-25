@@ -1,4 +1,4 @@
-      ## Wanna Connect?
+
 ![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sharif-danish-b5003220a/)
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/sharifkhan96/)
@@ -27,3 +27,5 @@ Hi there, I'm Sharif 👋
 ## 🧑‍💻 Visitor Counter
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical)
