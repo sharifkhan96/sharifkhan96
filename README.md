@@ -9,14 +9,14 @@
 Hi there, I'm Sharif 👋
 
 - 🔭 I’m currently working on https://intelcyb.com/
-- 🌱 A litte busy learning Linux, Networking and secure programming & playing with cool stuffs like bug bounty not a lot though :-)
-- 👯 I’m looking to collaborate on security related projects
+- 🌱 A litte busy learning Linux, Networking and secure programming & playing with cool stuff like bug bounty not a lot though :-)
+- 👯 I’m looking to collaborate on security related projects.
 
 ## 🛠️ My Tech Stack
 
 - 💻 **Languages:** Assembly, Python, JavaScript, Bash, C++, & Java.
-- 🛠️ **Frameworks:** Django.
-- 🧑‍💻  **Tools & technologies:** Arduino, Switches & routers, and Azure.
+- 🛠️ **Frameworks:** Django & EVE.
+- 🧑‍💻  **Tools & technologies:** Arduino, Switches, routers, & Azure.
 
 ## 🔧 Interests
 - ⚔️ **Chess**: Analyzing strategies and how it sharpens one's mind.
