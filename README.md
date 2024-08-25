@@ -19,11 +19,12 @@ Hi there, I'm Sharif 👋
 - 🧑‍💻  **Tools & technologies:** Arduino, Switches & routers, and Azure.
 
 ## 🔧 Interests
-- ⚔️ **Chess**: Analyzing strategies and how it sharpens my mind.
+- ⚔️ **Chess**: Analyzing strategies and how it sharpens one's mind.
 - 🧠 **Human Nature & Psychology**: Understanding what makes people tick.
-- 🌐 **Tech World & Visionary**: Exploring the future of technology and innovation.
+- 🌐 **Tech World & Visionary**: Exploring the future of technology and innovation & Pondering the next big tech breakthrough and its impact on society.
 - 🛡️ **Cybersecurity**: Protecting the digital world and ensuring online safety.
-- 🌌 **Visionary**: Pondering the next big tech breakthrough and its impact on society.
+- 👁️ **Perception**: Delving into how we interpret the world around us.
+  
 
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
