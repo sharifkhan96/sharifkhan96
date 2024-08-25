@@ -9,7 +9,7 @@
 Hi there, I'm Sharif 👋
 
 - 🔭 I’m currently working on https://intelcyb.com/
-- 🌱 Been busy learning Linux, Networking and secure programming & playing with cool stuff like bug bounty and robotics
+- 🌱 A litte busy learning Linux, Networking and secure programming & playing with cool stuffs like bug bounty not a lot though :-)
 - 👯 I’m looking to collaborate on security related projects
 
 ## 🛠️ My Tech Stack
@@ -17,6 +17,13 @@ Hi there, I'm Sharif 👋
 - 💻 **Languages:** Assembly, Python, JavaScript, Bash, C++, & Java.
 - 🛠️ **Frameworks:** Django.
 - 🧑‍💻  **Tools & technologies:** Arduino, Switches & routers, and Azure.
+
+## 🔧 Interests
+- ⚔️ **Chess**: Analyzing strategies and how it sharpens my mind.
+- 🧠 **Human Nature & Psychology**: Understanding what makes people tick.
+- 🌐 **Tech World & Visionary**: Exploring the future of technology and innovation.
+- 🛡️ **Cybersecurity**: Protecting the digital world and ensuring online safety.
+- 🌌 **Visionary**: Pondering the next big tech breakthrough and its impact on society.
 
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
