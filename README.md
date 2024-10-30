@@ -15,7 +15,7 @@ Hi there, I'm Sharif 👋
 
 - 💻 **Languages:** Assembly, Python, JavaScript, Bash, C++, & Java.
 - 🛠️ **Frameworks:** Django
-- 🧑‍💻  **Tools & technologies:** Arduino, EVE-NG, Locust & Azure.
+- 🧑‍💻  **Tools & technologies:** VS Code, VIM, Arduino, EVE-NG, Locust & Azure.
   
 ## 🔧 Interests
 - ♟️⚔️ **Chess**: Analyzing strategies and how it sharpens one's mind.
