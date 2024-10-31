@@ -7,7 +7,7 @@
 
 Hi there, I'm Sharif 👋
 
-- 🔭 I’m currently working on https://intelcyb.com/
+- 🔭 Software Engineer at https://intelcyb.com/
 - 🌱 Continously learning about Linux, Networking and secure programming & playing with cool stuff like teasing LLMs :-)
 - 👯 I’m looking to collaborate on cool security related projects.
 
