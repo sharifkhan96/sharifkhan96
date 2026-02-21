@@ -8,18 +8,15 @@
 Hi there, I'm Sharif 👋
 
 - 🔭 Software Engineer at https://intelcybe.com/
-- 🌱 Continously learning about Linux, Networking and secure programming & playing with cool stuff like teasing LLMs :-)
-- 👯 I’m looking to collaborate on cool security related projects.
+- 🌱 Continously learning about Linux, software, robotics, networking & playing with cool stuff like teasing LLMs :-)
+- 👯 I’m looking to collaborate on cool AI B2B, B2C, and security related projects.
 
 ## 🛠️ My Tech Stack
 
 - 💻 **Languages:** Assembly, Python, JavaScript, Bash, C++, & Java.
-- 🛠️ **Frameworks:** Django
-- 🧑‍💻  **Tools & technologies:** VS Code, VIM, Arduino, Postman, EVE-NG, Locust & Azure.
+- 🛠️ **Frameworks:** Django & React JS
+- 🧑‍💻  **Tools & technologies:** VS Code, VIM, Nano, Arduino, Raspberry PI, Postman, EVE-NG, AWS & Azure.
   
 ## 🔧 Interests
 - ♟️⚔️ **Chess**: Analyzing strategies and how it sharpens one's mind.
-- 🌐 **Tech World & Vision**: Exploring the future of technology and innovation & Pondering the next big tech breakthrough and its impact on society.
-- 👁️ **Perception**: Delving into how we interpret the world around us.
-- 🛡️ **Cybersecurity**: Above all, protecting the digital world through developing secure solutions.
-  
+- 👁️ **Perception**: Delving into how we interpret the world around us.  
