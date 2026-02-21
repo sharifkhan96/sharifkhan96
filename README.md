@@ -19,4 +19,7 @@ Hi there, I'm Sheriff 👋
   
 ## 🔧 Interests
 - ♟️⚔️ **Chess**: Analyzing strategies and how it sharpens one's mind.
-- 👁️ **Perception**: Delving into how we interpret the world around us.  
+- 👁️ **Perception**: Delving into how we interpret the world around us.
+- 📚 **Reading**:  🧠 Continuous Learning
+- 🎮 **Gaming**: 👾 Strategy & Competitive Play
+- 💪 **Gym**: 🔥 Discipline | ⚡ Energy
