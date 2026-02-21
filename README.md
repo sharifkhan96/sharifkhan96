@@ -1,6 +1,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://www.x.com/sharifdanish_/)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sharif-danish-b5003220a/)
+<img src="https://leetcode-badge-showcase.vercel.app/api?username={sharifkhan96}" alt="LeetCode Badges" />
 
 
 
