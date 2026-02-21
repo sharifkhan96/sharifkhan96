@@ -4,7 +4,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/sharifkhan96/)
 
 
-Hi there, I'm Sharif 👋
+Hi there, I'm Sheriff 👋
 
 - 🔭 Software Engineer at https://intelcybe.com/
 - 🌱 Continously learning about Linux, software, robotics, networking & playing with cool stuff like teasing LLMs :-)
