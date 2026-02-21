@@ -15,7 +15,7 @@ Hi there, I'm Sheriff 👋
 - 💻 **Languages:** Assembly, Python, JavaScript, Bash, C++, & Java.
 - 🛠️ **Frameworks:** Django & React JS
 - 💻 **Operating Systems:** Linux(Ubuntu & Kali), Nginx server, Windows XP-11 & server 2022. 
-- 🧑‍💻  **Tools & technologies:** VS Code, VIM, Nano, Arduino, Raspberry PI, Postman, EVE-NG, AWS & Azure.
+- 🧑‍💻  **Tools & technologies:** VS Code, VIM, Nano, Arduino, Raspberry PI, Postman, Redis, EVE-NG, AWS & Azure.
   
 ## 🔧 Interests
 - ♟️⚔️ **Chess**: Analyzing strategies and how it sharpens one's mind.
