@@ -23,4 +23,4 @@ Hi there, I'm Sheriff 👋
 - 👁️ **Perception**: How we interpret the world around us.
 - 📚 **Reading**:  🧠 Continuous Learning
 - 🎮 **Gaming**: 👾 Strategy & Competitive Play
-- 💪 **Gym**: 🔥 Discipline | ⚡ Energy
+- 💪 **Gym**: 🔥 Discipline
